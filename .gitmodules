@@ -1,3 +1,0 @@
-[submodule "client-base"]
-	path = client-base
-	url = git@github.com:megant/client-base.git
